@@ -1,0 +1,162 @@
+.headinglist{
+    display: flex;
+    float: right;
+}
+li{
+    list-style: none;
+    padding: 20px;
+    text-decoration: none;
+    color: rgb(235, 220, 234);
+   
+}
+a{
+    color: rgb(235, 220, 234);
+    text-decoration: none;
+     text-shadow: 2px 2px black;    
+}
+a:hover{
+    text-decoration: none;
+    color: white;
+}
+.navigationImage{
+    background-image: url(../images/banner5.jpg);
+    width: ;
+    height: 350px;   
+    background-size: cover;
+}
+.china{
+    font-size: 70px;
+    padding-top: 50px;
+    color: white;
+    text-shadow: 2px 3px brown;
+}
+.ourservices{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.paragraphs{
+    text-align: center;
+}
+
+
+.winter{
+    background-color: orange;
+    padding: 10px;
+}
+.winter-a{
+    color: #fff;
+    font-size: 40px;
+}
+.dummytext{
+    padding-top: 20px;
+}
+
+.winterimage{
+    padding: 20px;
+}
+
+.services{
+  padding: 50px;
+  text-align: start;
+}
+.tours{
+    text-shadow: 2px 3px brown;
+    font-size: 30px;
+}
+
+#read{
+    background-color: rgb(9, 9, 61);
+}
+
+.para {
+    text-align: justify;
+}
+.canada{
+    background-image: url(../images/s1.jpg);
+    width: max-content;
+    height: 600px;   
+    background-size: cover;
+}
+.tour{
+    color: white;
+    width: 50%;
+    padding-top: 400px;
+    text-align: center;    
+}
+.Asia{
+    background-image: url(../images/s2.jpg);
+   width: 50%;
+    height: 300px;   
+    background-size: cover;
+}
+.Canada2{
+    background-image: url(../images/s3.jpg);
+   width: 50%;
+    height: 300px;   
+    background-size: cover;
+}
+.Europe{
+    background-image: url(../images/s4.jpg);   
+    width: 50%;
+    height: 300px;   
+    background-size: cover;
+}
+.tours{
+    color: white;   
+    width: 50%;
+    padding-top: 100px;
+    text-align: center;    
+}
+.years{
+    background-image: url(../images/stats1.jpg);
+    background-size: cover;
+    height: 300px;
+    background-position: center;
+}
+.yearstext{
+    padding: 20px;
+}
+.yearsheading{
+    text-transform: uppercase;
+    color: white; 
+    font-size: 40px;
+      
+}
+.yearstext{
+    color: white;
+}
+.yearsheadingorange{
+    color: orange;
+}
+.card-body{
+    background: navy;
+    color: white;
+}
+.grey{
+    background: rgb(241, 202, 202);
+}
+.orange{
+    background: orange;
+}
+.navytext{
+    background: indigo;
+    
+}
+#submit{
+    background: orange;
+}
+.footerlinks, ul{
+    padding-left: 20px;
+    color: white;
+    list-style: square;
+    padding: 15px;
+}
+.footer{
+    background: navy;
+}
+.removeliststyle{
+    list-style: none;
+}
+.styled li{
+    list-style: square;    
+}
